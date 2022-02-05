@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quabey&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 - 👋 Hi, I’m @quabey
 - 👀 I’m interested in Game Development, Web Development, and finding something to do 
