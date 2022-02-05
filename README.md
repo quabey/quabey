@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning how to get motivated 
 - 💞️ I’m looking to collaborate on anything interesting
 - ⌨️ I'm currently working on Forest Idle
-- 📫 You can reach me on Discord: quabey#0001
+- 📫 You can reach me on Discord: quabey#6142
 
 <!---
 quabey/quabey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
