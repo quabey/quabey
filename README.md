@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm quabey</h1>
-<h3 align="center">Applied Computer Science Student, Web-Developer, Software-Engineer, Game-Developer, Project-Manager</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ADBAC7&width=435&lines=Applied+Computer+Science+Student;Web-Developer;Software-Engineer;Game-Developer;Project-Manager)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quabey&label=Profile%20views&color=0e75b6&style=flat" alt="quabey" /> </p>
 
