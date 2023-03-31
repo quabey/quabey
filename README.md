@@ -2,7 +2,7 @@
 
 
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=200&color=ADBAC7&center=true&width=600&lines=Applied+Computer+Science+Student;Web-Developer;Software-Engineer;Game-Developer;Phyton-Hater" alt="Typing SVG"></a>
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=200&color=ADBAC7&center=true&width=600&lines=Applied+Computer+Science+Student;Web-Developer;Software-Engineer;Game-Developer;Phyton-Hater" alt="Typing SVG"></a>
  </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quabey&label=Profile%20views&color=0e75b6&style=flat" alt="quabey" /> </p>
