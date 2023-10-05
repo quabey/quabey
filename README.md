@@ -2,7 +2,7 @@
 
 
    <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=200&color=ADBAC7&center=true&width=600&lines=Applied+Computer+Science+Student;Fullstack-Web-Developer;Software-Engineer;Game-Developer;Phyton-Hater" alt="Typing SVG"></a>
+     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=200&color=ADBAC7&center=true&width=600&lines=Applied+Computer+Science+Student;Fullstack-Web-Developer;Software-Engineer;Game-Developer;Python-Hater" alt="Typing SVG"></a>
  </h1>
  <p>
 Hi, I'm quabey — a software engineer and Applied Computer Science student. I'm a JavaScript enthusiast with a strong preference for Svelte. I enjoy building responsive, user-friendly web apps and staying current with web development trends. Feel free to reach out for collaboration or a friendly chat!
